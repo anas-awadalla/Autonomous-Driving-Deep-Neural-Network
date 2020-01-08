@@ -1,3 +1,3 @@
 # FutureSalesPredictor
 
-By using daily sales data, provided by the 1C Company, predicts total sales for every product and store in the next month. 
+Implementing a deep neural network trained using AirSim driving simulation image frames to predict steering angle based on the road situation. Using Tensorflow backend and ----- .
